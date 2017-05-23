@@ -301,7 +301,7 @@ search:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8yODc5OS81Mzcw
 
 # Baidu Share
 # Available value:
@@ -320,7 +320,7 @@ baidushare: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: rSaSVFHn00y-RXQfkSjRQkW-EkFZyAriGhaaNTq0JTA
 
 # Google Analytics
 #google_analytics:
@@ -377,9 +377,9 @@ vkontakte_api:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: GhEt4pWti6YnlV7Yi5Ucwy3F-gzGzoHsz
+  app_key: 1P3nKXXtcWRGYVlnzJCqDO0z
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -451,7 +451,7 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
